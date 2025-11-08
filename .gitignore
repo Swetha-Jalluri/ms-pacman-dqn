@@ -1,0 +1,112 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.pkl
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+
+# -----------------------------
+# PyTorch / TensorFlow / Models
+# -----------------------------
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.tfevents.*
+logs/
+checkpoints/
+wandb/
+tensorboard/
+
+# -----------------------------
+# Project Artifacts
+# -----------------------------
+runs/
+outputs/
+models/
+*.csv
+*.json
+*.yaml
+*.yml
+*.npy
+*.npz
+
+# -----------------------------
+# System files
+# -----------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# -----------------------------
+# Jupyter Notebook
+# -----------------------------
+.ipynb_checkpoints/
+*.ipynb_*
+
+# -----------------------------
+# Mac OS / IDE
+# -----------------------------
+.DS_Store
+.idea/
+.vscode/
+.history/
+
+# -----------------------------
+# Build / Distribution
+# -----------------------------
+build/
+dist/
+*.egg-info/
+MANIFEST
+
+# -----------------------------
+# Temporary / Cache files
+# -----------------------------
+*.tmp
+*.bak
+*.swp
+*.swo
+*.old
+.cache/
+pytest_cache/
+__pycache__/
+
+# -----------------------------
+# Sensitive files
+# -----------------------------
+.env
+.env.*
+.credentials
+secrets.json
+config.json
+
+# -----------------------------
+# Reports / PDFs / Docs
+# -----------------------------
+report/
+*.pdf
+*.docx
+*.md~
