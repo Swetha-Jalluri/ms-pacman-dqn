@@ -5,7 +5,7 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ---
 
@@ -20,7 +20,6 @@
 - [Agent Gameplay](#-agent-gameplay)
 - [Conceptual Analysis](#-conceptual-analysis)
 - [Code Attribution](#-code-attribution)
-- [Video Demonstration](#-video-demonstration)
 - [License](#-license)
 - [References](#-references)
 
