@@ -26,6 +26,16 @@
 
 ---
 
+<img width="160" height="210" alt="image" src="https://github.com/user-attachments/assets/e4e1059f-417b-4977-a680-010b57e14571" />
+
+<img width="160" height="210" alt="image" src="https://github.com/user-attachments/assets/3008acfc-ff1b-43fa-af55-59e15ed7caff" />
+
+<img width="160" height="210" alt="image" src="https://github.com/user-attachments/assets/2044983a-d1f4-429c-92fc-bd768fdca5ce" />
+
+<img width="160" height="210" alt="image" src="https://github.com/user-attachments/assets/ddf60633-b888-437a-bc3b-961cd6f85710" />
+
+---
+
 ## 🎯 Overview
 
 This project implements a **Deep Q-Network (DQN)** agent that learns to play Atari Ms. Pac-Man through reinforcement learning. The agent processes raw pixel observations and learns optimal policies to maximize game score through trial-and-error interaction with the environment.
