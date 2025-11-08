@@ -1470,7 +1470,7 @@ SOFTWARE.
 
 ## 🎓 Academic Use
 
-This project was completed as coursework for [Course Name] at [University Name].
+This project was completed as coursework for Prompt Engineering at Northeastern University.
 
 **For Academic Reviewers:**
 - All external sources are properly attributed
