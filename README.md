@@ -1,9 +1,6 @@
 # 🧠 Deep Q-Network for Atari Ms. Pac-Man
 
 **Author:** Sri Lakshmi Swetha Jalluri  
-**Course:** Reinforcement Learning & LLM Agents  
-**Institution:** [Your University]  
-**Date:** November 2025  
 **License:** MIT
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
